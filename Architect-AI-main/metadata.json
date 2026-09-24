@@ -1,0 +1,6 @@
+{
+  "name": "ArchitectAI",
+  "description": "Enterprise-grade AI SaaS platform for generating complete software architectures, ER diagrams, database schemas, REST APIs, frontend/backend structures, deployment plans, roadmaps, and costs from a single prompt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
